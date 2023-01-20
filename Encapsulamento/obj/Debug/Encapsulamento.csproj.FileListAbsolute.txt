@@ -1,0 +1,6 @@
+C:\Users\dferilles\source\repos\Encapsulamento\bin\Debug\Encapsulamento.dll
+C:\Users\dferilles\source\repos\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\dferilles\source\repos\Encapsulamento\obj\Debug\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\dferilles\source\repos\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\dferilles\source\repos\Encapsulamento\obj\Debug\Encapsulamento.dll
+C:\Users\dferilles\source\repos\Encapsulamento\obj\Debug\Encapsulamento.pdb
